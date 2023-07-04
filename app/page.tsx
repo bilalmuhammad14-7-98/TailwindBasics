@@ -12,6 +12,14 @@ export default function Home() {
       <h1 className="border-2 border-green-700">Hello world!</h1>
 
       <h1 className="text-vuejs">Hello world!</h1>
+
+      <p className="text-xs sm:text-base md:text-lg lg:text-3xl ">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque,
+        corporis!
+      </p>
+
+      <p className="">Lorem ipsum dolor sit amet.</p>
+      <p>Lorem ipsum dolor sit amet.</p>
     </>
   );
 }
